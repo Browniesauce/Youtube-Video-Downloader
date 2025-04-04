@@ -1,4 +1,4 @@
-# Youtube-Vidoe-Downloader
+# Youtube-Video-Downloader
 I have made a simple GUI based Youtube Videos Downloader using Python 
 
 I am going to add more features in the coming updates 
